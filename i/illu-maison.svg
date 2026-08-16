@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img"
+     aria-label="Maison chauffée par une pompe à chaleur">
+  <title>Maison chauffée par une pompe à chaleur</title>
+
+  <!-- Sol -->
+  <path d="M20 268h380" stroke="#CCE2DA" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Corps de la maison -->
+  <path d="M96 268V150l104-74 104 74v118z" fill="#ffffff" stroke="#07391D" stroke-width="7"
+        stroke-linejoin="round"/>
+  <!-- Toiture -->
+  <path d="M78 158 200 70l122 88" fill="none" stroke="#07391D" stroke-width="9"
+        stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Diffusion de chaleur à l'intérieur -->
+  <circle cx="200" cy="196" r="42" fill="#FFF4EA"/>
+  <path d="M200 170c9 8 13 13 13 19a13 13 0 1 1-26 0c0-6 4-11 13-19z" fill="#F97A12"/>
+  <path d="M158 196a42 42 0 0 1 8-25M242 196a42 42 0 0 0-8-25" stroke="#F97A12" stroke-width="5"
+        stroke-linecap="round" opacity=".45"/>
+
+  <!-- Porte -->
+  <rect x="180" y="238" width="40" height="30" rx="3" fill="#E9F5F1" stroke="#07391D" stroke-width="5"/>
+
+  <!-- Fenêtres -->
+  <rect x="124" y="176" width="34" height="34" rx="4" fill="#E9F5F1" stroke="#07391D" stroke-width="5"/>
+  <rect x="242" y="176" width="34" height="34" rx="4" fill="#E9F5F1" stroke="#07391D" stroke-width="5"/>
+
+  <!-- Unité extérieure de pompe à chaleur -->
+  <rect x="318" y="204" width="72" height="52" rx="9" fill="#ffffff" stroke="#07391D" stroke-width="6"/>
+  <circle cx="354" cy="230" r="15" fill="#E9F5F1" stroke="#07391D" stroke-width="5"/>
+  <path d="M354 221c4.5 3.4 4.5 5.6 0 9s-4.5 5.6 0 9" stroke="#F97A12" stroke-width="4"
+        stroke-linecap="round" fill="none"/>
+  <path d="M330 264v6M378 264v6" stroke="#07391D" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Flux d'air chaud vers la maison -->
+  <path d="M312 196c-14-8-14-18 0-26M300 210c-20-11-20-25 0-36" stroke="#41CF1A" stroke-width="5"
+        stroke-linecap="round" fill="none" opacity=".7"/>
+</svg>

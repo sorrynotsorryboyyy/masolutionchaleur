@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img"
+     aria-label="Artisan chauffagiste certifié">
+  <title>Artisan chauffagiste certifié</title>
+
+  <!-- Chaudière murale -->
+  <rect x="238" y="70" width="130" height="150" rx="14" fill="#ffffff" stroke="#07391D" stroke-width="7"/>
+  <rect x="262" y="96" width="82" height="46" rx="7" fill="#E9F5F1" stroke="#07391D" stroke-width="5"/>
+  <path d="M303 108c6 5.5 9 9 9 13a9 9 0 0 1-18 0c0-4 3-7.5 9-13z" fill="#F97A12"/>
+  <circle cx="278" cy="176" r="11" fill="#E9F5F1" stroke="#07391D" stroke-width="5"/>
+  <circle cx="328" cy="176" r="11" fill="#41CF1A" stroke="#07391D" stroke-width="5"/>
+  <path d="M262 236v14M344 236v14" stroke="#07391D" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Artisan -->
+  <!-- Casque -->
+  <path d="M78 116a38 38 0 0 1 76 0z" fill="#F97A12" stroke="#07391D" stroke-width="6"
+        stroke-linejoin="round"/>
+  <path d="M68 116h96" stroke="#07391D" stroke-width="6" stroke-linecap="round"/>
+  <!-- Tête -->
+  <circle cx="116" cy="146" r="24" fill="#ffffff" stroke="#07391D" stroke-width="6"/>
+  <!-- Buste -->
+  <path d="M74 268v-52a42 42 0 0 1 84 0v52z" fill="#07391D"/>
+  <!-- Col -->
+  <path d="M104 176l12 14 12-14" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+  <!-- Bras tendu vers la chaudière -->
+  <path d="M158 216h52" stroke="#07391D" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="218" cy="216" r="13" fill="#ffffff" stroke="#07391D" stroke-width="6"/>
+
+  <!-- Badge RGE -->
+  <circle cx="66" cy="222" r="27" fill="#41CF1A" stroke="#ffffff" stroke-width="5"/>
+  <path d="M54 222l8 8 16-16" stroke="#ffffff" stroke-width="6" stroke-linecap="round"
+        stroke-linejoin="round" fill="none"/>
+
+  <!-- Sol -->
+  <path d="M28 268h364" stroke="#CCE2DA" stroke-width="5" stroke-linecap="round"/>
+</svg>

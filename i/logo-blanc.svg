@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 268 56" role="img" aria-label="Ma Solution Chaleur">
+  <title>Ma Solution Chaleur</title>
+  <!-- Déclinaison pour fond vert foncé (footer) -->
+  <rect x="2" y="4" width="48" height="48" rx="15" fill="#ffffff"/>
+  <path d="M26 15c6.5 6.2 10 10 10 14.6a10 10 0 0 1-20 0C16 25 19.5 21.2 26 15z" fill="#F97A12"/>
+  <path d="M26 25.5c2.7 2.6 4.1 4.3 4.1 6.2a4.1 4.1 0 1 1-8.2 0c0-1.9 1.4-3.6 4.1-6.2z" fill="#ffffff"/>
+  <text x="62" y="27" font-family="Manrope, system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="20" font-weight="800" fill="#ffffff" letter-spacing="-0.4">MaSolution</text>
+  <text x="62" y="47" font-family="Manrope, system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="20" font-weight="800" fill="#F97A12" letter-spacing="-0.4">Chaleur</text>
+</svg>
